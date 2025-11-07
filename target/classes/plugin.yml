@@ -1,0 +1,7 @@
+name: NoChatOrderFix
+main: dev.pinkycore.nochatorder.NoChatOrderFix
+version: 1.1
+api-version: 1.19
+author: PinkyCore
+depend: [ProtocolLib]
+description: Corrige el error de chat 'out_of_order' eliminando firmas y timestamps sin tocar el formateo.
